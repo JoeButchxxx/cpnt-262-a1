@@ -6,5 +6,6 @@
 - https://joebutchxxx.github.io/cpnt-262-a1/
 
 ## Page Attributes & Hints
-I decided to do a dark mode button with a simple switch between night and light.
-The button has a simple on/off between light and dark.
+- I decided to do a dark mode button with a simple switch between dark and light.
+- This was my first assignment incorpriating JavaScript and it was a huge learning expereince for me to see interactivity in my page.
+- 
